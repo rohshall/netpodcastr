@@ -10,14 +10,15 @@ On Linux, install mono using your package manager.
 
 For Arch Linux, it is:  
 
+```
 pacman -Syu mono  
-
+```
 
 Compile:  
-
+```
 mcs /reference:System.Xml.Linq.dll RSSFeedReader.cs
-
+```
 Run:  
-
+```
 mono RSSFeedReader.exe 
-
+```
