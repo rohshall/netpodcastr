@@ -2,6 +2,7 @@ netpodcastr
 ===========
 
 podcast client in C#.
+--------------------
 
 It reads the podcast feeds from feeds.txt and downloads them.  
 
